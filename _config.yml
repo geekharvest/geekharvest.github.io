@@ -1,7 +1,7 @@
 # Site settings
 title: Geek Harvest
 email: geekharvest@fireflylogic.com
-url: https://geekharvest.github.io
+url: https://www.geekharvest.org
 description: "Geek Harvest is a summer activity for programming user groups in which parents in the group, bring their kids to some meetings, pick a summer coding project, and show-and-tell that work at the group's September meeting."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form

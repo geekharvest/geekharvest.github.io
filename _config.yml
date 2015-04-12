@@ -2,7 +2,7 @@
 title: Geek Harvest
 email: geekharvest@fireflylogic.com
 url: https://geekharvest.github.io
-description: "Geek Harvest is a pattern for user groups. Over the summer months parents bring their children to meetings and pair with them on tech. The group reserves time in the September meeting for parent-kid presentations."
+description: "Geek Harvest is a summer activity for programming user groups in which parents in the group, bring their kids to some meetings, pick a summer coding project, and show-and-tell that work at the group's September meeting."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -33,7 +33,7 @@ address:
   - line: Nashville, TN 37206
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'The idea and initial leg-work for Geek Harvest was by Bryan Hunter of <a href="http://fireflylogic.com">Firefly Logic</a><br/><br/>This site''s lovely, opensource theme (Freelancer) was created by <a href="http://startbootstrap.com">Start Bootstrap</a>'
 
 # Build settings
 markdown: kramdown

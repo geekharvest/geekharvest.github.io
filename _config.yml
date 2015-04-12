@@ -33,7 +33,7 @@ address:
   - line: Nashville, TN 37206
 
 # Credits content
-credits: 'The idea and initial leg-work for Geek Harvest was by Bryan Hunter of <a href="http://fireflylogic.com">Firefly Logic</a><br/><br/>This site''s lovely, opensource theme (Freelancer) was created by <a href="http://startbootstrap.com">Start Bootstrap</a>'
+credits: 'The idea and initial leg-work for Geek Harvest by Bryan Hunter of <a href="http://fireflylogic.com">Firefly Logic</a><br/><br/>This site''s lovely, opensource theme (Freelancer) by <a href="http://startbootstrap.com">Start Bootstrap</a>'
 
 # Build settings
 markdown: kramdown
